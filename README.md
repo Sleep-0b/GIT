@@ -16,5 +16,5 @@ d:\GIT\
 
 ## 说明
 
-- `src/`、`docs/`、`assets/`、`tests/`、`scripts/`、`config/` 为本地项目文件夹，**不受 Git 仓库管理**。
+- `src/`、`docs/`、`assets/`、`tests/`、`scripts/`、`config/` 为项目文件夹，**受 Git 仓库管理并追踪同步**。
 - 具体排除规则见 `.gitignore`。
